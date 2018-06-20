@@ -1,0 +1,172 @@
+name,year,cycle,variable_passenger,value_passenger,unit,variable_lcv,value_lcv
+Brazil,2012,CAFE,hist,35.96774484,mi/gal_us,,
+Brazil,2013,CAFE,hist,37.04140887,mi/gal_us,,
+Brazil,2014,CAFE,enacted,38.00814893,mi/gal_us,,
+Brazil,2015,CAFE,enacted,38.974889,mi/gal_us,,
+Brazil,2016,CAFE,enacted,39.94162907,mi/gal_us,,
+Brazil,2017,CAFE,enacted,40.90836913,mi/gal_us,,
+Canada,2000,CAFE,hist,30.15081911,mi/gal_us,hist,21.18510791
+Canada,2001,CAFE,hist,30.15081911,mi/gal_us,hist,21.33862319
+Canada,2002,CAFE,hist,30.46272414,mi/gal_us,hist,21.33862319
+Canada,2003,CAFE,hist,30.88877622,mi/gal_us,hist,21.75908867
+Canada,2004,CAFE,hist,31.32691489,mi/gal_us,hist,21.97559701
+Canada,2005,CAFE,hist,31.77766187,mi/gal_us,hist,22.36503797
+Canada,2006,CAFE,hist,31.32691489,mi/gal_us,hist,22.59383632
+Canada,2007,CAFE,hist,32.59848708,mi/gal_us,hist,23.24786842
+Canada,2008,CAFE,hist,33.08685393,mi/gal_us,hist,24.74563025
+Canada,2009,CAFE,hist,34.50855469,mi/gal_us,hist,25.83096491
+Canada,2010,CAFE,hist,34.50855469,mi/gal_us,hist,27.60684375
+Canada,2016,CAFE,hist,38.24324675,mi/gal_us,hist,27.73262948
+Canada,2017,CAFE,enacted,39.97371041,mi/gal_us,enacted,29.34946844
+Canada,2018,CAFE,enacted,41.47507042,mi/gal_us,enacted,29.94640678
+Canada,2019,CAFE,enacted,43.09360976,mi/gal_us,enacted,30.56813149
+Canada,2020,CAFE,enacted,44.84360406,mi/gal_us,enacted,31.21621908
+Canada,2021,CAFE,enacted,46.74174603,mi/gal_us,enacted,33.2112406
+Canada,2022,CAFE,enacted,49.8,mi/gal_us,enacted,36.2
+Canada,2023,CAFE,enacted,51.5,mi/gal_us,enacted,37.7
+Canada,2024,CAFE,enacted,53.3,mi/gal_us,enacted,39.1
+Canada,2025,CAFE,enacted,55.2,mi/gal_us,enacted,40.6
+China,2002,CAFE,hist,27.73438197,mi/gal_us,,
+China,2006,CAFE,hist,30.88724745,mi/gal_us,,
+China,2008,CAFE,hist,31.60584266,mi/gal_us,,
+China,2010,CAFE,hist,32.37330563,mi/gal_us,hist,29.33717762
+China,2011,CAFE,hist,33.1626838,mi/gal_us,hist,29.25751646
+China,2012,CAFE,hist,33.57198697,mi/gal_us,hist,29.80687032
+China,2013,CAFE,hist,33.99151987,mi/gal_us,enacted,30.51462119
+China,2014,CAFE,hist,34.42167086,mi/gal_us,enacted,31.22237206
+China,2015,CAFE,hist,36.99666095,mi/gal_us,enacted,31.93012293
+China,2016,CAFE,hist,38.03120995,mi/gal_us,enacted,32.6378738
+China,2017,CAFE,enacted,40.44891566,mi/gal_us,enacted,33.34562467
+China,2018,CAFE,enacted,42.86662137,mi/gal_us,enacted,34.05337555
+China,2019,CAFE,enacted,45.28432707,mi/gal_us,enacted,34.76112642
+China,2020,CAFE,enacted,47.70203278,mi/gal_us,enacted,35.46887729
+EU,2000,CAFE,hist,34.09897259,mi/gal_us,,
+EU,2001,CAFE,hist,34.618615,mi/gal_us,,
+EU,2002,CAFE,hist,35.14751321,mi/gal_us,,
+EU,2003,CAFE,hist,35.51971637,mi/gal_us,,
+EU,2004,CAFE,hist,35.97118465,mi/gal_us,,
+EU,2005,CAFE,hist,36.18236864,mi/gal_us,,
+EU,2006,CAFE,hist,36.41519812,mi/gal_us,,
+EU,2007,CAFE,hist,36.95777235,mi/gal_us,,
+EU,2008,CAFE,hist,38.01372658,mi/gal_us,,
+EU,2009,CAFE,hist,39.71144137,mi/gal_us,hist,32.99750235
+EU,2010,CAFE,hist,41.10125424,mi/gal_us,hist,33.78137867
+EU,2011,CAFE,hist,42.33219118,mi/gal_us,hist,33.95860053
+EU,2012,CAFE,hist,43.278463,mi/gal_us,hist,34.1213601
+EU,2013,CAFE,hist,44.83961157,mi/gal_us,hist,34.90771023
+EU,2014,CAFE,hist,45.87669398,mi/gal_us,hist,35.57289839
+EU,2015,CAFE,hist,47.05390387,mi/gal_us,hist,35.9005331
+EU,2016,CAFE,hist,47.60553693,mi/gal_us,hist,36.95531994
+EU,2017,CAFE,enacted,49.4459374,mi/gal_us,enacted,37.73543883
+EU,2018,CAFE,enacted,51.28633787,mi/gal_us,enacted,38.51555771
+EU,2019,CAFE,enacted,53.12673834,mi/gal_us,enacted,39.2956766
+EU,2020,CAFE,enacted,54.96713881,mi/gal_us,enacted,40.07579549
+EU,2021,CAFE,enacted,56.80753929,mi/gal_us,proposed,41.20873308
+EU,2022,CAFE,proposed,58.70134136,mi/gal_us,proposed,42.34167067
+EU,2023,CAFE,proposed,60.59514343,mi/gal_us,proposed,43.47460826
+EU,2024,CAFE,proposed,62.4889455,mi/gal_us,proposed,44.60754585
+EU,2025,CAFE,proposed,64.38274757,mi/gal_us,proposed,45.74048344
+EU,2026,CAFE,proposed,66.36401765,mi/gal_us,proposed,47.24642489
+EU,2027,CAFE,proposed,68.34528773,mi/gal_us,proposed,48.75236633
+EU,2028,CAFE,proposed,70.32655782,mi/gal_us,proposed,50.25830778
+EU,2029,CAFE,proposed,72.3078279,mi/gal_us,proposed,51.76424922
+EU,2030,CAFE,proposed,74.28909798,mi/gal_us,proposed,53.27019067
+India,2006,CAFE,hist,37.92109066,mi/gal_us,,
+India,2009,CAFE,hist,40.73653677,mi/gal_us,,
+India,2010,CAFE,hist,41.42651956,mi/gal_us,,
+India,2011,CAFE,hist,42.19013374,mi/gal_us,,
+India,2012,CAFE,hist,42.10383312,mi/gal_us,,
+India,2015,CAFE,hist,45.94580608,mi/gal_us,,
+India,2016,CAFE,enacted,46.42752037,mi/gal_us,,
+India,2017,CAFE,enacted,46.90923466,mi/gal_us,,
+India,2018,CAFE,enacted,47.39094894,mi/gal_us,,
+India,2019,CAFE,enacted,47.87266323,mi/gal_us,,
+India,2020,CAFE,enacted,48.35437752,mi/gal_us,,
+India,2021,CAFE,enacted,48.8360918,mi/gal_us,,
+India,2022,CAFE,enacted,49.31780609,mi/gal_us,,
+Japan,2000,CAFE,hist,31.42630602,mi/gal_us,,
+Japan,2001,CAFE,hist,32.23445067,mi/gal_us,,
+Japan,2002,CAFE,hist,33.22920129,mi/gal_us,,
+Japan,2003,CAFE,hist,33.42612891,mi/gal_us,,
+Japan,2004,CAFE,hist,34.01292815,mi/gal_us,hist,34.01292815
+Japan,2005,CAFE,hist,34.20721119,mi/gal_us,,
+Japan,2006,CAFE,hist,34.97784787,mi/gal_us,,
+Japan,2007,CAFE,hist,35.16889944,mi/gal_us,,
+Japan,2008,CAFE,hist,36.48861156,mi/gal_us,,
+Japan,2009,CAFE,hist,39.21641482,mi/gal_us,,
+Japan,2010,CAFE,hist,39.57020067,mi/gal_us,,
+Japan,2011,CAFE,hist,41.81559061,mi/gal_us,,
+Japan,2012,CAFE,hist,44.45626812,mi/gal_us,hist,35.35931438
+Japan,2013,CAFE,hist,46.97048589,mi/gal_us,enacted,35.9825891
+Japan,2014,CAFE,hist,48.18297757,mi/gal_us,enacted,36.60586383
+Japan,2015,CAFE,hist,47.88255223,mi/gal_us,enacted,37.22913855
+Japan,2016,CAFE,hist,48.3325248,mi/gal_us,enacted,37.90847848
+Japan,2017,CAFE,,,mi/gal_us,enacted,38.58781841
+Japan,2018,CAFE,,,mi/gal_us,enacted,39.26715834
+Japan,2019,CAFE,,,mi/gal_us,enacted,39.94649827
+Japan,2020,CAFE,,,mi/gal_us,enacted,40.62583821
+Japan,2021,CAFE,,,mi/gal_us,enacted,41.30517814
+Japan,2022,CAFE,,,mi/gal_us,enacted,41.98451807
+KSA,2012,CAFE,hist,36.22684897,mi/gal_us,hist,23.52392791
+KSA,2016,CAFE,hist,35.28589186,mi/gal_us,hist,25.2882225
+KSA,2017,CAFE,hist,35.9916097,mi/gal_us,hist,25.74949542
+KSA,2018,CAFE,enacted,36.93256681,mi/gal_us,enacted,28.07844945
+KSA,2019,CAFE,enacted,37.87352393,mi/gal_us,enacted,30.4851124
+KSA,2020,CAFE,enacted,39.99067744,mi/gal_us,enacted,31.14521825
+Mexico,2008,CAFE,hist,32.93349907,mi/gal_us,hist,22.58297079
+Mexico,2009,CAFE,hist,33.6392169,mi/gal_us,hist,22.81821007
+Mexico,2010,CAFE,hist,34.34493474,mi/gal_us,hist,23.52392791
+Mexico,2011,CAFE,hist,35.52113114,mi/gal_us,hist,24.46488502
+Mexico,2012,CAFE,hist,36.22684897,mi/gal_us,hist,25.17060286
+Mexico,2013,CAFE,hist,37.87352393,mi/gal_us,hist,26.11155998
+Mexico,2014,CAFE,hist,38.57924177,mi/gal_us,hist,26.69965817
+Mexico,2016,CAFE,hist,39.2849596,mi/gal_us,hist,28.11109385
+Mexico,2017,CAFE,enacted,39.2849596,mi/gal_us,enacted,29.64014916
+Mexico,2018,CAFE,enacted,39.2849596,mi/gal_us,enacted,29.64014916
+Peru,2013,CAFE,hist,33.3136671,mi/gal_us,hist,25.8354648
+Peru,2014,CAFE,hist,34.17542341,mi/gal_us,hist,25.70977423
+Peru,2015,CAFE,hist,34.1019112,mi/gal_us,hist,24.41318931
+South Korea,2003,CAFE,hist,28.0124241,mi/gal_us,,
+South Korea,2004,CAFE,hist,29.49523444,mi/gal_us,,
+South Korea,2005,CAFE,hist,29.98672392,mi/gal_us,,
+South Korea,2006,CAFE,hist,30.85660627,mi/gal_us,hist,23.78892883
+South Korea,2007,CAFE,hist,31.47805206,mi/gal_us,hist,23.59469176
+South Korea,2008,CAFE,hist,32.86994843,mi/gal_us,hist,25.52526626
+South Korea,2009,CAFE,hist,34.61874715,mi/gal_us,hist,25.27847501
+South Korea,2010,CAFE,hist,36.21943041,mi/gal_us,hist,25.69248841
+South Korea,2011,CAFE,hist,37.23276894,mi/gal_us,hist,25.80115025
+South Korea,2012,CAFE,hist,39.12444909,mi/gal_us,hist,27.82810326
+South Korea,2013,CAFE,hist,38.99492026,mi/gal_us,hist,28.05658272
+South Korea,2014,CAFE,hist,38.80201253,mi/gal_us,hist,26.80544299
+South Korea,2015,CAFE,hist,38.75282389,mi/gal_us,hist,27.11289373
+South Korea,2016,CAFE,hist,38.20796641,mi/gal_us,hist,26.9303892
+South Korea,2017,CAFE,enacted,42.80670876,mi/gal_us,enacted,28.46659427
+South Korea,2018,CAFE,enacted,47.40545111,mi/gal_us,enacted,30.00279934
+South Korea,2019,CAFE,enacted,52.00419346,mi/gal_us,enacted,31.53900441
+South Korea,2020,CAFE,enacted,56.60293581,mi/gal_us,enacted,33.07520948
+US,2000,CAFE,hist,28.2,mi/gal_us,hist,20.8
+US,2001,CAFE,hist,28.4,mi/gal_us,hist,20.6
+US,2002,CAFE,hist,28.6,mi/gal_us,hist,20.6
+US,2003,CAFE,hist,28.9,mi/gal_us,hist,20.9
+US,2004,CAFE,hist,28.9,mi/gal_us,hist,20.8
+US,2005,CAFE,hist,29.5,mi/gal_us,hist,21.4
+US,2006,CAFE,hist,29.2,mi/gal_us,hist,21.8
+US,2007,CAFE,hist,30.3,mi/gal_us,hist,22.1
+US,2008,CAFE,hist,30.5,mi/gal_us,hist,22.7
+US,2009,CAFE,hist,32.1,mi/gal_us,hist,23.8
+US,2010,CAFE,hist,32.7,mi/gal_us,hist,23.8
+US,2011,CAFE,hist,32.3,mi/gal_us,hist,23.9
+US,2012,CAFE,hist,34.4,mi/gal_us,hist,24.1
+US,2013,CAFE,hist,35.5,mi/gal_us,hist,24.8
+US,2014,CAFE,hist,35.6,mi/gal_us,hist,25.5
+US,2015,CAFE,hist,36.5,mi/gal_us,hist,27
+US,2016,CAFE,hist,37.45,mi/gal_us,hist,27.9
+US,2017,CAFE,enacted,40.1,mi/gal_us,enacted,29.4
+US,2018,CAFE,enacted,41.6,mi/gal_us,enacted,30
+US,2019,CAFE,enacted,43.1,mi/gal_us,enacted,30.6
+US,2020,CAFE,enacted,44.8,mi/gal_us,enacted,31.2
+US,2021,CAFE,enacted,46.8,mi/gal_us,enacted,33.3
+US,2022,CAFE,enacted,49.8,mi/gal_us,enacted,36.2
+US,2023,CAFE,enacted,51.5,mi/gal_us,enacted,37.7
+US,2024,CAFE,enacted,53.3,mi/gal_us,enacted,39.1
+US,2025,CAFE,enacted,55.2,mi/gal_us,enacted,40.6
